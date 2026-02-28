@@ -1,4 +1,4 @@
-Gemini said
+
 🔍 AIOps Log Anomaly Detector
 Automated detection of system failures in distributed log data using Unsupervised Machine Learning
 
